@@ -1,4 +1,5 @@
 # Tutorial Ideas
 
 - [ ] Mastering PalmOS.
-- [] Jetpack Compose Basics.
+- [ ] Jetpack Compose Basics.
+- [ ] Blockchains With BASICS
